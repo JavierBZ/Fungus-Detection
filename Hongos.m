@@ -8,6 +8,8 @@ pause
 %% Primera Parte: Segmentación
 % Con Escala de grises
 
+% Hola
+
 clear all
 
 h1 = 'Asp_flavus';
